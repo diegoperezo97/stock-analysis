@@ -1,4 +1,4 @@
-# VBA of Wall Street
+# MODULE 2: VBA of Wall Street
 
 ## Overview of the Analysis
 In this module, I will be helping my friend Steve, who just got his degree in Finance. Steve’s parents are so proud of him that they decided to become his first clients. Steve’s parents are passionate about green energy. They believe that as fossil fuels get used up, there will be more and more reliance on alternative energy production. However, Steve’s parents haven’t done much research and have instead decided to invest all their money into Daqo New Energy Corporation, a company that makes silicon wafers for solar panels.
@@ -34,7 +34,7 @@ I decided to refactor my original code implementing the following steps:
 
 The main difference between the refactored code and the original code is that for the original code an array was created containing each of the twelve stock tickers and two for loops were created to iterate over the tickers and then iterate over all the rows of data. In contrast, for the refactored code I included the “tickerIndex” variable as a counter helping me to implicitly move through indexing along the array of stock tickers instead of explicitly having two for loops. My hypothesis was that two for loops use more computer power in relation to indexing.
 
-Table 2.1 Response Time in Seconds Original vs. Refactored Code
+**Table 2.1 Response Time in Seconds Original vs. Refactored Code**
 | YEAR | ORIGINAL | REFACTORED | % CHANGE | AVERAGE % CHANGE
 | ----------- | ----------- | ----------- | ----------- | -----------
 | 2017 | 0.984375 | 0.28125 | -71% | -69%
