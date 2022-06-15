@@ -1,5 +1,13 @@
 # MODULE 2: VBA of Wall Street
 
+We'll talk about Visual Basic for Applications, or VBA, in this module. Microsoft developed the computer language VBA to automate processes in Microsoft Office suites. Since VBA is contained within Microsoft products, if you currently have Microsoft Office, you already have access to it. No further software needs to be bought or downloaded; VBA is already included.
+
+The term "macros" is frequently used to describe VBA programs. Simple instructions for the computer to follow are what make up a macro. Worksheets, cells, and charts are all accessible to VBA macros in Excel. Theoretically, a VBA macro can duplicate every action you can perform in Excel.
+
+In the real world, VBA is frequently used in finance to automate report creation and do financial analysis. We'll also concentrate on ideas like variables, arrays, conditionals, loops, and functions that are present in all programming languages. You may better comprehend the fundamental ideas of coding by learning how to apply these in VBA.
+
+Let's examine these programming ideas in more detail with reference to VBA.
+
 ## Overview of the Analysis
 In this module, I will be helping my friend Steve, who just got his degree in Finance. Steve’s parents are so proud of him that they decided to become his first clients. Steve’s parents are passionate about green energy. They believe that as fossil fuels get used up, there will be more and more reliance on alternative energy production. However, Steve’s parents haven’t done much research and have instead decided to invest all their money into Daqo New Energy Corporation, a company that makes silicon wafers for solar panels.
 
